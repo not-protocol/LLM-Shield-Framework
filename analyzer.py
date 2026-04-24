@@ -20,7 +20,7 @@ Analysis signals used:
   5. Topic deviation        → response drifted from user_prompt topic
   6. Injection echo         → model repeated/referenced the injection content
 
-Author: Elarion Valeheart
+Author: Rohan Kumar
 Project: LLM Shield v1.0.0
 """
 
