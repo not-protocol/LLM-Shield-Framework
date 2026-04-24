@@ -137,7 +137,21 @@ python shield.py info      # provider status, pattern library, system info
 | `CRITICAL` | Model hijacked, leaked, or fully complied  |
 
 ---
+## 📘 Documentation & Handbook
 
+Want the full deep dive?
+
+👉 **[LLM Shield Handbook](./HANDBOOK.md)**
+
+This guide covers:
+- 🔍 All prompt injection types
+- 🧠 How the detection system works
+- ⚙️ CLI usage in detail
+- 🧪 Injection examples & attack patterns
+- 🛠️ Common errors and fixes
+- 📂 Prompt file system guide
+
+> Think of it as the complete operating manual for LLM Shield.
 ## Project Structure
 
 ```
