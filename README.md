@@ -141,7 +141,7 @@ python shield.py info      # provider status, pattern library, system info
 
 Want the full deep dive?
 
-👉 **[LLM Shield Handbook](./LLM_shield_handbook_v1.1.md)**
+👉 **[LLM Shield Handbook](./LLM_Shield_Handbook_v1.1.md)**
 
 This guide covers:
 - 🔍 All prompt injection types
