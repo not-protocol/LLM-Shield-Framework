@@ -22,7 +22,7 @@ Built as a CLI tool. Modular. No fluff.
 ## Install
 
 ```bash
-git clone https://github.com/yourname/llm-shield
+git clone (https://github.com/not-protocol/LLM-Shield-Framework)
 cd llm-shield
 pip install anthropic python-dotenv
 ```
