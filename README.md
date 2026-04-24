@@ -34,7 +34,7 @@ You only need **one** key to run.
 ## Install
 
 ```bash
-git clone https://github.com/yourname/llm-shield
+git clone https://github.com/not-protocol/LLM-Shield-Framework
 cd llm-shield
 pip install -r requirements.txt
 ```
