@@ -4,7 +4,7 @@
 
 > *"Don't just detect AI vulnerabilities. Understand them. Generate them. Control them."*
 
-**by Rohan Kumar** · 2025 · Portfolio Edition
+**by Rohan Kumar** 
 
 ---
 
