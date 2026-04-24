@@ -5,7 +5,7 @@ Module 1 of 5
 Scans prompts for known injection attack patterns.
 Returns structured detection result with matched patterns + confidence score.
 
-Author: Elarion Valeheart
+Author: Rohan Kumar
 Project: LLM Shield v1.0.0
 """
 
