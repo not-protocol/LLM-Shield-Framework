@@ -24,7 +24,7 @@ Scoring Philosophy:
         + severity_bonus for LEAKED / HIJACKED
         + injection_mode_bonus for high-risk surfaces (external, system)
 
-Author: Elarion Valeheart
+Author: Rohan Kumar
 Project: LLM Shield v1.0.0
 """
 
